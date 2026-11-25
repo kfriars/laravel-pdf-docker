@@ -21,9 +21,9 @@ jobs:
       matrix:
         include:
         - php: '8.5'
-          tags: '8.5'
+          tags: '8.5 latest stable'
         - php: '8.4'
-          tags: '8.4 latest stable'
+          tags: '8.4'
         - php: '8.3'
           tags: '8.3'
         - php: '8.2'
