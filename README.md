@@ -8,8 +8,8 @@ It is built on the official `php:X.Y-alpine` images and rebuilt every week, so e
 
 | Tag | PHP |
 | - | - |
-| `8.5` | 8.5.x |
-| `8.4`, `latest`, `stable` | 8.4.x |
+| `8.5`, `latest`, `stable` | 8.5.x |
+| `8.4` | 8.4.x |
 | `8.3` | 8.3.x |
 | `8.2` | 8.2.x |
 
